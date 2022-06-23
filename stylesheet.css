@@ -1,0 +1,51 @@
+body
+{
+    background: #800000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.user
+{
+    background: #fff;
+    padding: 20px 40px;
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+h2
+{
+    color: #555;
+}
+
+label,input
+{
+    display: block;
+    margin: 18px 0;
+}
+
+label
+{
+    color: #777
+}
+
+input
+{
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+input[type="submit"]
+{
+    cursor: pointer;
+}
+
+input[type="button"]
+{
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    width: fit-content;
+    cursor: pointer;
+}
